@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "869689966998",
+    "project_id": "chatfb-6faec",
+    "storage_bucket": "chatfb-6faec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869689966998:android:5960333dd8cf91f97d9db7",
+        "android_client_info": {
+          "package_name": "com.example.chatfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869689966998-4iuum19uhivjbulpgrgl1gh5pp3j0p9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatfb",
+            "certificate_hash": "2f728bf6be0fdddf8d8b88a5ab80fb3a5e3e48df"
+          }
+        },
+        {
+          "client_id": "869689966998-816pmugkpnaaq27l784i3kn495gjmj60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGit5LP86FvTJDyJa7piMnGVLXzg-X_3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869689966998-816pmugkpnaaq27l784i3kn495gjmj60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
